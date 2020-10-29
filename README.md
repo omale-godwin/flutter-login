@@ -9,9 +9,9 @@ This project is a starting point for a Flutter application.
 
 # ADRIOD SCREEN SHOOT
 
-![alt text](https://github.com/omale-godwin/flutter-login/blob/main/assets/login.png =250x250)
+<img src="https://github.com/omale-godwin/flutter-login/blob/main/assets/login.png" align="center" height="250" width="200"
 
 
 # IOS SCREEN SHOOT
 
-![alt text](https://github.com/omale-godwin/flutter-login/blob/main/assets/login.png =250x250)
+<img src="https://github.com/omale-godwin/flutter-login/blob/main/assets/login.png" align="center" height="250" width="200"
