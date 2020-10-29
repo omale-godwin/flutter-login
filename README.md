@@ -7,9 +7,11 @@ A new Flutter Login project .
 This project is a starting point for a Flutter application.
 
 
-# ADRIOD
+# ADRIOD SCREEN SHOOT
+
+![alt text](https://github.com/omale-godwin/flutter-login/blob/main/assets/afr.jpg)
 
 
+# IOS SCREEN SHOOT
 
-
-#IOS
+![alt text](https://github.com/omale-godwin/flutter-login/blob/main/assets/afr.jpg)

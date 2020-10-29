@@ -56,8 +56,14 @@ class _loginPageState extends State<loginPage>
           new Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
-              FlutterLogo(
-                size: _iconAnimation.value * 100,
+              Container(
+
+                padding: EdgeInsets.fromLTRB(40, 1, 40, 0),
+
+                child: Image(
+                  image: AssetImage('assets/afr.jpg'),
+
+                ),
               ),
               Form(
                   child: Theme(
